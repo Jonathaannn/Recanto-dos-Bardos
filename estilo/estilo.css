@@ -84,12 +84,18 @@ body {
   flex-wrap: wrap;
   justify-content: space-between;
 }
+.div-cont-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
 .conteudo {
   width: 30%;
   margin-bottom: 30px;
 }
 .conteudo-img img {
   width: 100%;
+  border-radius: 5px;
 }
 .conteudo-link {
   font-size: 1.3em;
@@ -98,6 +104,9 @@ body {
   color: #fff;
 }
 .conteudo-link a {
-  color: #fff;
+  color: #000;
   text-decoration: none;
+  padding: 5px;
+  background-color: #fff;
+  border-radius: 5px;
 }
