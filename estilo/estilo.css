@@ -8,7 +8,7 @@ body {
   position: fixed;
   left: 0;
   top: 0;
-  width: 98%;
+  width: 100%;
   margin: 0;
   background-color: rgba(300, 300, 300, 0.8);
   text-align: center;
@@ -45,16 +45,23 @@ body {
   padding-right: 10px;
   background-color: rgb(13, 13, 13);
 }
-
 .meio {
-  padding-top: 35px;
-  padding-bottom: 82px;
-  padding-left: 5px;
-  padding-right: 5px;
   background-color: rgb(13, 13, 13);
-  text-decoration: none;
+  padding: 15px;
 }
-
+.meio h1,
+.meio h3 {
+  text-align: center;
+  color: #fff;
+  font-weight: lighter;
+}
+.meio h1 {
+  font-size: 2.5em;
+}
+.meio h3 {
+  font-size: 1.3em;
+  margin-bottom: 50px;
+}
 .meio2 {
   padding-top: 40px;
   padding-bottom: 80px;
@@ -71,4 +78,26 @@ body {
   background-attachment: fixed;
   background-position: center;
   height: 100%;
+}
+.div-cont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.conteudo {
+  width: 30%;
+  margin-bottom: 30px;
+}
+.conteudo-img img {
+  width: 100%;
+}
+.conteudo-link {
+  font-size: 1.3em;
+}
+.conteudo-link p {
+  color: #fff;
+}
+.conteudo-link a {
+  color: #fff;
+  text-decoration: none;
 }
