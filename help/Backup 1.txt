@@ -1,0 +1,229 @@
+<html>
+
+<head> 
+
+<title>Recanto dos Bardos</title>
+
+ <style>
+ 
+      body{
+          margin:0;
+          background: url("fundo.jpg") fixed;
+          background-size: 100%;
+      }
+    
+      #menu ul{
+       position: fixed;
+       left: 0;
+       top: 0;
+       width: 98%;
+       margin:0;
+       background-color: black;
+       text-align:center;
+       list-style: none;
+    }
+      #menu ul li{
+
+         display: inline;
+
+        }
+      #menu ul li a{
+
+       padding:4px 60px;
+       display:inline-block;
+       font-family: lucida calligraphy ;
+       color: white ;
+       text-decoration: none ;
+       font-size: 30 ;
+
+    }
+      #menu ul li a:hover{
+          color: #000000 ;
+          background: white ;
+          transition: 1.5s ;
+        }
+
+ </style>
+
+</head>
+
+<body>
+  <img src="Template.png" width="100%"height="80%" align="center" alt="rosto">
+
+ <div id="menu">
+    <ul>
+   <li><a href="#">Início</a></li>
+   <li><a href="#Crônicas">Crônicas</a></li>
+   <li><a href="#Poema">Poemas</a></li>
+   <li><a href="#Conto">Contos</a></li>
+   <li><a href="#Livro">Livro</a></li>
+    </ul>
+ </div>
+
+<br> <font size="5" color="white" face="lucida calligraphy">
+
+ <b>Nosso site busca trazer nossos contos, poemas, crônicas e livro, com intenção  de entreter
+ sua manhã, tarde ou noite, mas não esqueça que nossas histórias se trata de alguns temas horrendos e pesados as vezes
+ ou seja se você tem estomago fraco não leia algumas de nossas histórias...<br> <br>
+ 
+ As histórias criadas por Pierre e Rafael, sendo elas contos para mostrar a realidade de algumas pessoas do que
+ elas sentem ou já sentiram, por isso algumas são tristes, mas os autores dos contos buscam representar elas
+ em uma história mas não tem intensão de ofende-las.<br></b>
+ 
+ <center><b>Se divirta com nosso com nossas histórias ??</b> </p>
+</center>
+
+</b><br><br><br>
+ 
+<center><h1><a id="Crônicas">Crônicas</a></h1></center> <br><br>
+
+
+<center><b>Todas as Crônicas foram inspiradas em um Jogo.</b> </center>
+<br><br><br>
+
+<table>
+  <tr>
+    <td> <img src="noc.png" width="50%"height="30%" align="left" alt="rosto"> 
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b> Nocturne, o eterno pesadelo</b>
+<mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/CRONICAS%20NOC.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="shaco.png" width="50%"height="30%" align="left" alt="rosto">
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b> Shaco, o bufão demoniaco</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/CRONICAS%20SHACO.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="pyke.png" width="50%"height="30%" align="left" alt="rosto">
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+       <b>Pyke, o afogado</b><br><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/CRONICAS.pdf" target="blank">Ver Melhor</a> </mark>
+
+  </tr>
+</table> 
+
+<br><br><br>
+
+<center><h1><a id="Poema">Poemas</a></h1></center> <br><br>
+
+<center><b>Os Poemas se baseiam aprtir de fatos vivenciados pelo o autor ou por outras pessoas que ele observou.</b> </center>
+<br><br><br>
+
+<table>
+  <tr>
+    <td> <img src="dependência.png" width="57%"height="38%" align="left" alt="rosto"> 
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+     <b> Dependência</b><br><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/Depend%C3%AAncia.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="doce.png" width="50%"height="30%" align="left" alt="rosto">
+      <br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b>Deliciosamente doce</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/Deliciosamente%20doce.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="lágrimas.png" width="50%"height="30%" align="left" alt="rosto">
+      <br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b>O doce amargar das lágrimas</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/O%20doce%20amargar%20das%20l%C3%A1grimas.pdf" target="blank">Ver Melhor</a> </mark>
+
+  </tr>
+</table> 
+<br><br>
+<table>
+  <tr>
+    <td> <img src="silêncio.png" width="53%"height="34%" align="left" alt="rosto"> 
+      <br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b> O doce som do silêncio</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/O%20doce%20som%20do%20sil%C3%AAncio.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="todos.png" width="54%"height="35%" align="left" alt="rosto">
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+       <b>Um por todos</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/Um%20por%20todos.pdf" target="blank">Ver Melhor</a> </mark>
+
+    <td> <img src="você.png" width="52%"height="33%" align="left" alt="rosto">
+      <br><br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+      <b> Você é tão</b><br>
+     <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF-2/Voc%C3%AA%20%C3%A9%20t%C3%A3o.pdf" target="blank">Ver Melhor</a> </mark>
+
+  </tr>
+</table> 
+
+<br><br><br>
+
+<center><h1><a id="Conto">Contos</a></h1></center> <br><br><br>
+
+<table>
+  <tr>
+     <td> <img src="Bichos da floresta.jpg" width="40%"height="65%" align="left" alt="rosto"> 
+      
+        <font size="5" color="white" face="lucida calligraphy">
+
+       <b>Rainha dos bichos da floresta</b><br><br> 
+
+       <u><b>Inspirado em uma Música, porém diferente da história dela.</b></u><br><br>
+
+       <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF/RAINHA%20DOS%20BICHOS%20DA%20FLORESTA.pdf" target="blank">
+        Ver Melhor</a> </mark>
+
+        <td><img src="magnata.png" width="40%"height="65%" align="left" alt="rosto"> 
+      
+        <font size="5" color="white" face="lucida calligraphy">
+
+       <b>Um Magnata Infeliz</b><br><br>
+
+       <u><b>Conto dividido em cinco partes, tente ler atenciosamente cada parte para entender o conto.</b></u><br>
+
+        <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/Um%20Magnata%20Infeliz%20Cap%C3%ADtulo%20I.pdf" target="blank">
+        Parte I</a> </mark><br>
+        <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/Um%20Magnata%20Infeliz%20Cap%C3%ADtulo%20II.pdf" target="blank">
+        Parte II</a> </mark><br>
+        <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/Um%20Magnata%20Infeliz%20Cap%C3%ADtulo%20III.pdf" target="blank">
+        Parte III</a> </mark><br>
+        <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/Um%20Magnata%20Infeliz%20Cap%C3%ADtulo%20IV.pdf" target="blank">
+        Parte IV</a> </mark><br>
+        <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/Um%20Magnata%20Infeliz%20Cap%C3%ADtulo%20V.pdf" target="blank">
+        Parte V</a> </mark><br>
+
+</tr>
+</table>
+<br><br><br><br><br><br><br>
+<font size="5" color="white" face="lucida calligraphy">
+
+<center><h1><a id="Livro">Livro</a></h1></center> <br><br>
+
+ <img src="livro.png" width="40%"height="95%" align="left" alt="rosto"> 
+      <br><br>
+        <font size="5" color="white" face="lucida calligraphy">
+
+       <b>Um conto de um assassino</b><br><br>
+
+       <b><u>Para mais detalhes do livro leiam ele para não perder a emoção.</u></b><br><br>
+
+        Os Poemas, Crônicas e Contos foram criado pelos os autores já citados anteriormente Pierre e Rafael mas para a
+        fabricação do Livro foi adicionado mais um escritor Jonathan, onde os três criaram ano passado o Livro:<b><u> Um conto de um Assassino</u></b>,
+        que está disponível nesse site, contendo <b><u>10 capítulos</u></b> o livro conta a História de um grupo de amigos que lutam por suas vida por causa
+        de um Assassino que está solto por Lichenborg e deseja mata-los, mas o plano dele mudou com o decorrer do tempo.<br><br>
+
+       <mark> <a href="file:///C:/Users/Jonathan%20C%C3%A9sar/Desktop/Web/PDF/Um%20Conto%20De%20Um%20Assasino.pdf" target="blank">
+        Ver Melhor</a>
+ 
+</body>
+</html>
