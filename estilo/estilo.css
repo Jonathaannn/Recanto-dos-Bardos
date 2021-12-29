@@ -213,6 +213,10 @@ footer p {
   text-align: center;
   color: #fff;
 }
+footer p a {
+  color: #fff;
+  text-decoration: none;
+}
 ::-webkit-scrollbar {
   width: 8px;
   background-color: #fff;
